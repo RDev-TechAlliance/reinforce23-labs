@@ -35,17 +35,17 @@ __**Ensure your region is US East (N. Virginia)**__
 
 ## AWSJams Tasks
 
-Task 01 - [Onboarding](https://github.com/RDev-TechAlliance/reinforce23_labs/blob/docs/Task%201.md)
+Task 01 - [Onboarding](https://github.com/RDev-TechAlliance/reinforce23-labs/blob/docs/Task%201.md)
 
 <!-- Lab Exercise 02a - [IaC Scanning](https://github.com/rickdevera/tenable_immersion_day/blob/main/LabExercise-02a.md)
 -->
 
-Task 02 - [Cloud Scanning](https://github.com/RDev-TechAlliance/reinforce23_labs/blob/docs/Task%202.md)
+Task 02 - [Cloud Scanning](https://github.com/RDev-TechAlliance/reinforce23-labs/blob/docs/Task%202.md)
 
 <!---Lab Exercise 03b - [Drift Detection](https://github.com/rickdevera/tenable_immersion_day/blob/main/LabExercise-03b.md)
 --->
 
-Task 03 - [Agentless Assessment](https://github.com/RDev-TechAlliance/reinforce23_labs/blob/docs/Task%203.md)
+Task 03 - [Agentless Assessment](https://github.com/RDev-TechAlliance/reinforce23-labs/blob/docs/Task%203.md)
 
 <!---Lab Exercise 06a - [Integrations] (future)
 1.  Jenkins CI/CD
